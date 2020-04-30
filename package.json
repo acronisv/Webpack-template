@@ -4,7 +4,7 @@
   "description": "Webpack starter kit",
   "main": "index.js",
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
